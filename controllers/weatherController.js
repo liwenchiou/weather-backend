@@ -2,7 +2,7 @@ const axios = require("axios");
 
 // CWA API 設定
 const CWA_API_BASE_URL = "https://opendata.cwa.gov.tw/api";
-const CWA_API_KEY = process.env.CWA_API_KEY;
+const CWA_API_KEY = "CWA-3C2658AB-B0DF-4F5D-A22A-CD5AEB89237D";
 
 /**
  * 取得高雄天氣預報
